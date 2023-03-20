@@ -1,0 +1,9 @@
+@import "./styles.scss";
+
+// mixing
+@mixin title {
+    font-family: $family-sans-serif-lato;
+    font-size: 28px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
