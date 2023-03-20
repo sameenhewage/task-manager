@@ -1,7 +1,7 @@
 @import "./styles.scss";
 
 // mixing
-@mixin title {
+@mixin main-title {
     font-family: $family-sans-serif-lato;
     font-size: 28px;
     text-transform: uppercase;
